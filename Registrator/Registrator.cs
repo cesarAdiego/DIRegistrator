@@ -6,7 +6,7 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 
-namespace DIRegistrator
+namespace DIRegistrator.Registrator
 {
     public static class Registrator
     {
